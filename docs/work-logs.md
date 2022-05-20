@@ -5,7 +5,7 @@ This file is written in `markdown` format. Learn more from [here](https://docs.g
 AUTHOR NAME
 
 ## Week 1 [23 May 2022 - 28 May 2022]
-### Monday
+### monday
 ### Tuesday
 ### ...
 ### ...
